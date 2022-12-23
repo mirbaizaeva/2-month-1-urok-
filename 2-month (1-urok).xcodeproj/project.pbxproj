@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		36488B352951DD8500118CEE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36488B342951DD8500118CEE /* main.swift */; };
+		3676F74529548CA70007D337 /* Class-Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3676F74429548CA70007D337 /* Class-Car.swift */; };
+		3676F74729548CD00007D337 /* Class-Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3676F74629548CD00007D337 /* Class-Shop.swift */; };
+		3676F74929548D150007D337 /* Class-Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3676F74829548D150007D337 /* Class-Bank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		36488B312951DD8500118CEE /* 2-month (1-urok) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2-month (1-urok)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36488B342951DD8500118CEE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3676F74429548CA70007D337 /* Class-Car.swift */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = "Class-Car.swift"; sourceTree = "<group>"; tabWidth = 4; wrapsLines = 1; };
+		3676F74629548CD00007D337 /* Class-Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Class-Shop.swift"; sourceTree = "<group>"; };
+		3676F74829548D150007D337 /* Class-Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Class-Bank.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				36488B342951DD8500118CEE /* main.swift */,
+				3676F74429548CA70007D337 /* Class-Car.swift */,
+				3676F74629548CD00007D337 /* Class-Shop.swift */,
+				3676F74829548D150007D337 /* Class-Bank.swift */,
 			);
 			path = "2-month (1-urok)";
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				36488B352951DD8500118CEE /* main.swift in Sources */,
+				3676F74729548CD00007D337 /* Class-Shop.swift in Sources */,
+				3676F74929548D150007D337 /* Class-Bank.swift in Sources */,
+				3676F74529548CA70007D337 /* Class-Car.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
